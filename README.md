@@ -43,7 +43,7 @@ console.log('Encrypted:', encrypted);
 // return: buffer
 const decrypted     = myCrypro.decrypt(encrypted);
 console.log('Decrypted:', decrypted);
-``
+```
 
 # Docs
 
