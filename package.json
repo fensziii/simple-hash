@@ -1,0 +1,12 @@
+{
+  "name": "simple-hash",
+  "version": "0.0.1",
+  "description": "encode decode buffer with the different nodejs algos and generate word seed with private.-, public key",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "keywords": ["nodejs", "crypto", "seed", "encode", "decode", "public", "private", "algos"],
+  "author": "Martin B. [fensziii]",
+  "license": "MIT"
+}
