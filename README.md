@@ -9,7 +9,7 @@ npm i git+https://github.com/fensziii/simple-hash.git --save
 
 # Example Test
 
-```nodejs
+```node
 const SimpleHash    = require('simple-hash');
 
 const myCrypro      = SimpleHash({
