@@ -1,5 +1,5 @@
-# simple-hash
- encode decode buffer with the different nodejs algos and generate word seed with private.-, public key
+# Simple Hash
+> encode decode buffer with the different nodejs algos and generate word seed with private.-, public key
 
 # Install
 
@@ -48,3 +48,7 @@ console.log('Decrypted:', decrypted);
 # Docs
 
 > comming soon
+
+# License
+
+**MIT** see `LICENSE`
